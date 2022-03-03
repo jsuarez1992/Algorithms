@@ -1,0 +1,1 @@
+In the network there is a set of connections, through which information can be sent both ways. Two computers belong in the same component, if they can communicate with each other. Here we are practicing to calculate the amount of **Components** in said class.
